@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 
-import printIcon from './images/print-icon.png'
-import chocoPizza from './images/choco-pizza.png'
+import printIcon from '../images/print-icon.png'
+import chocoPizza from '../images/choco-pizza.png'
+
+import '../reset.css';
+import '../style.css';
 
 class Image extends Component {
     // state = {  }
