@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
-import logo from './images/logo.png'
-import fbIcon from './images/fb-icon.png'
-import twitIcon from './images/twit-icon.png'
-import gpIcon from './images/gp-icon.png'
-import instaIcon from './images/insta-icon.png'
-import flicIcon from './images/flic-icon.png'
-import pintIcon from './images/pint-icon.png'
-import rssIcon from './images/rss-icon.png'
-import mailIcon from './images/mail-icon.png'
+import logo from '../images/logo.png'
+import fbIcon from '../images/fb-icon.png'
+import twitIcon from '../images/twit-icon.png'
+import gpIcon from '../images/gp-icon.png'
+import instaIcon from '../images/insta-icon.png'
+import flicIcon from '../images/flic-icon.png'
+import pintIcon from '../images/pint-icon.png'
+import rssIcon from '../images/rss-icon.png'
+import mailIcon from '../images/mail-icon.png'
 
 class Header extends Component {
   // state = {  }

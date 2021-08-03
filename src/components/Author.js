@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import vanPic from './images/van-pic.png'
+import vanPic from '../images/van-pic.png'
 
 class Author extends Component {
     // state = {  }

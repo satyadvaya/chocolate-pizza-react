@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import logo from './images/logo.png'
+import logo from '../images/logo.png'
 
 class Footer extends Component {
     // state = {  }
