@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import '../reset.css';
 import '../style.css';
 
-class Instructions extends Component {
+class Recipe extends Component {
     // state = {  }
     render() { 
         return (
@@ -19,4 +19,4 @@ class Instructions extends Component {
     }
 }
  
-export default Instructions;
+export default Recipe;

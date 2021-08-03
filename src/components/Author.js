@@ -16,7 +16,7 @@ class Author extends Component {
                     <img src={vanPic} alt="vanessa selfie" />
                     <div className="span-container">
                         <span>Vanessa Stevenson</span>
-                        <span>Food enthusiast, photodgraphy fan. Add a pinch of raw foodism and that's pretty much who I am.</span>
+                        <span>Food enthusiast, photography fan. Add a pinch of raw foodism and that's pretty much who I am.</span>
                     </div>
                     <button className="the-only-button">SHARE RECIPE</button>
                 </div>
