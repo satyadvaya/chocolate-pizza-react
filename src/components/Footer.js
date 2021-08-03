@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 
 import logo from '../images/logo.png'
 
+import '../reset.css';
+import '../style.css';
+
 class Footer extends Component {
     // state = {  }
     render() { 

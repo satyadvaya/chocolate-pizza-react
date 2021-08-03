@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 
 import vanPic from '../images/van-pic.png'
 
+import '../reset.css';
+import '../style.css';
+
 class Author extends Component {
     // state = {  }
     render() { 

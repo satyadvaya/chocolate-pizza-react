@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+import '../reset.css';
+import '../style.css';
+
 class Ingredients extends Component {
     // state = {  }
     render() { 

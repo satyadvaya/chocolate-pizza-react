@@ -7,6 +7,9 @@ import Ingredients from './components/Ingredients';
 import Author from './components/Author.js';
 import Footer from './components/Footer.js';
 
+import './reset.css';
+import './style.css';
+
 class App extends Component {
   // state = {  }
   render() { 

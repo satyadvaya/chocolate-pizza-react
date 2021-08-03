@@ -10,6 +10,9 @@ import pintIcon from '../images/pint-icon.png'
 import rssIcon from '../images/rss-icon.png'
 import mailIcon from '../images/mail-icon.png'
 
+import '../reset.css';
+import '../style.css';
+
 class Header extends Component {
   // state = {  }
   render() { 

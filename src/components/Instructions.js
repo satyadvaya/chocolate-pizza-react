@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+import '../reset.css';
+import '../style.css';
+
 class Instructions extends Component {
     // state = {  }
     render() { 
