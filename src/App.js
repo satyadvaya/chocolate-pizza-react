@@ -1,9 +1,10 @@
 import React, { Component } from 'react';
 
 import Header from './components/Header.js';
-import Image from './components/Image.js';
-import Instructions from './components/Instructions';
-import Ingredients from './components/Ingredients';
+import ImageSection from './components/ImageSection.js';
+import Recipe from './components/Recipe.js';
+import IngredientList from './components/IngredientList.js';
+import IngredientItem from './components/IngredientItem.js';
 import Author from './components/Author.js';
 import Footer from './components/Footer.js';
 
@@ -16,9 +17,10 @@ class App extends Component {
     return (
       <>
         <Header />
-        <Image />
-        <Instructions />
-        <Ingredients />
+        <ImageSection />
+        <Recipe />
+        <IngredientList />
+        <IngredientItem />
         <Author />
         <Footer />
       </>

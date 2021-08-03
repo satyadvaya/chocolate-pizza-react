@@ -6,7 +6,7 @@ import chocoPizza from '../images/choco-pizza.png'
 import '../reset.css';
 import '../style.css';
 
-class Image extends Component {
+class ImageSection extends Component {
     // state = {  }
     render() { 
         return (
@@ -30,4 +30,4 @@ class Image extends Component {
     }
 }
  
-export default Image;
+export default ImageSection;

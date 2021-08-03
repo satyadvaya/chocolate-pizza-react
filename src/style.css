@@ -52,7 +52,6 @@ body {
     margin:auto;
 }
 
-
 .ingredients {
     background-image: url('./images/list-bg.png');
     display: flex;
@@ -114,4 +113,8 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+li::marker {
+    visibility: hidden;
 }
