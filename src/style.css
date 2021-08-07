@@ -55,14 +55,20 @@ body {
 .ingredients {
     background-image: url('./images/list-bg.png');
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 200px;
+    width: 800px;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .ingredient-list {
     display: flex;
     flex-direction: column;
     margin: 60px;
+    height: 150px;
+    flex-flow: column wrap;
 }
 
 .ingredient-list * {

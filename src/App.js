@@ -4,7 +4,6 @@ import Header from './components/Header.js';
 import ImageSection from './components/ImageSection.js';
 import Recipe from './components/Recipe.js';
 import IngredientList from './components/IngredientList.js';
-import IngredientItem from './components/IngredientItem.js';
 import Author from './components/Author.js';
 import Footer from './components/Footer.js';
 
@@ -20,7 +19,6 @@ class App extends Component {
         <ImageSection />
         <Recipe />
         <IngredientList />
-        <IngredientItem />
         <Author />
         <Footer />
       </>
