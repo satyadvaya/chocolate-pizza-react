@@ -20,7 +20,7 @@ class App extends Component {
         <ImageSection />
         <Recipe />
         <IngredientList />
-        <IngredientItem />
+        {/* <IngredientItem /> */}
         <Author />
         <Footer />
       </>
